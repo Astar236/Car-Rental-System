@@ -2,15 +2,21 @@
 
 A desktop-based application built using **VB.NET** and **Microsoft Access**, designed to automate the car rental process. This system streamlines customer booking, vehicle management, and billing, providing a simple yet efficient solution for rental businesses.
 
+---
+
 ## 📋 Project Overview
 
 This project was developed as part of the TYBBA-CA curriculum under Savitribai Phule Pune University. It aims to replace the manual car booking process with an automated system that improves accuracy, saves time, and simplifies operations.
+
+---
 
 ## 🧰 Tech Stack
 
 - **Frontend**: Visual Basic .NET (Windows Forms using Visual Studio 2008)
 - **Backend**: Microsoft Access
 - **Platform**: Desktop (Windows 7/8/XP)
+
+---
 
 ## 🔧 Features
 
@@ -21,7 +27,31 @@ This project was developed as part of the TYBBA-CA curriculum under Savitribai P
 - Automatic rent calculation and bill generation
 - Transaction reports and record maintenance
 
-## 💻 System Requirements
+---
+
+## 💻 System Screenshots
+
+### 🧑‍💼 Admin Login
+![Admin Login](images/admin_login.png)
+
+### 🏠 Main Dashboard
+![Main Page](images/main_page.png)
+
+### ➕ Add Customer
+![Add Customer](images/add_customer.png)
+
+### 🚘 Add Cars
+![Add Cars](images/add_cars.png)
+
+### 📋 Booking Cars
+![Booking Cars](images/booking_cars.png)
+
+### 🧾 Rent Details / Billing
+![Rent Details](images/rent_details.png)
+
+---
+
+## ⚙️ System Requirements
 
 ### Hardware:
 - Intel Pentium Dual CPU
@@ -33,13 +63,7 @@ This project was developed as part of the TYBBA-CA curriculum under Savitribai P
 - Visual Studio 2008
 - MS Access (Database)
 
-## ⚙️ Modules
-
-- **Admin Panel**: Add/view cars, customers, booking history, and billing.
-- **Customer Management**: Register customers, view rental history.
-- **Booking System**: Search and book cars based on availability.
-- **Billing Module**: Auto-generate bills based on usage.
-- **Reports**: Generate reports for all transactions and rentals.
+---
 
 ## ✅ Advantages
 
@@ -54,12 +78,16 @@ This project was developed as part of the TYBBA-CA curriculum under Savitribai P
 - Customer interaction requires admin mediation
 - Limited scalability
 
+---
+
 ## 🔮 Future Enhancements
 
 - Upgrade to an online platform with customer login
 - Add real-time car tracking with GPS
 - Implement a backup mechanism and cloud-based storage
 - Build a responsive UI for mobile/tablet support
+
+---
 
 ## 📚 References
 
@@ -70,8 +98,12 @@ This project was developed as part of the TYBBA-CA curriculum under Savitribai P
 
 ---
 
-### 👨‍💻 Co-Developed by:
+## 👨‍💻 Developed by
+
 **Atharva N. Rao**  
 **Tejas V. Valame**
 
-📩 Contact: [atharvarao3000@gmail.com](mailto:atharvarao3000@gmail.com)
+📍 MIT Arts, Commerce & Science College, Alandi (D)  
+🎓 Academic Year: 2020–21  
+📩 [atharvarao3000@gmail.com](mailto:atharvarao3000@gmail.com)
+
